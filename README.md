@@ -45,6 +45,7 @@ After training, the model is evaluated on the test dataset. Key metrics used for
 
 ### 5. Results and Discovery
 The model achieved a remarkable accuracy of 99.8% in detecting exoplanets from the light curves. During testing, one interesting result revealed a star that NASA's algorithms did not flag but was identified by the model. This was humorously claimed as a new exoplanet, named **Kaggle Alpha**.
+![image](https://github.com/user-attachments/assets/081ce67b-95bd-49de-9997-0a6c185b506b)
 
 ## Web Interface
 
