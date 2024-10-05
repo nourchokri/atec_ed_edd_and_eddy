@@ -45,6 +45,14 @@ After training, the model is evaluated on the test dataset. Key metrics used for
 ### 5. Results and Discovery
 The model achieved a remarkable accuracy of 99.8% in detecting exoplanets from the light curves. During testing, one interesting result revealed a star that NASA's algorithms did not flag but was identified by the model. This was humorously claimed as a new exoplanet, named **Kaggle Alpha**.
 
+## Web Interface
+
+In addition to the exoplanet detection model, we developed a web interface that enhances user interaction with the model. The interface features:
+
+1. **Image Description Model**: A model that describes an input image of a planet, providing insights into its features.
+2. **Climate Report Generator**: A model that generates a comprehensive report about the climate conditions on the detected planet, offering suggestions on how to adapt to those changes.
+3. **Chatbot Integration**: A chatbot that interacts with users, answering questions related to the project and providing information on exoplanets and climate conditions.
+
 ## Key Files and Usage
 
 ### 1. Notebook File: `mystery_planet_99_8_cnn.ipynb`
@@ -71,3 +79,10 @@ Upon running the notebook, you can visualize light curves and analyze the model'
    Install them using the following command:
    ```bash
    pip install tensorflow numpy matplotlib scikit-learn
+
+### Notes
+- I added a section for the web interface that describes the three new features you implemented.
+- Adjust any file names or specific implementation details according to your actual project structure.
+- Ensure that the installation command for dependencies includes any additional libraries used for the web interface.
+
+Feel free to modify the wording or structure as you see fit!
