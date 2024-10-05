@@ -1,4 +1,5 @@
 # Exoplanet Detection Model - `mystery_planet_99_8_cnn`
+https://colab.research.google.com/drive/155YQ9iApKe3EKrSahEQOi3GdhwT-yAM2?usp=sharing
 
 ## Overview
 
@@ -52,7 +53,9 @@ The model achieved a remarkable accuracy of 99.8% in detecting exoplanets from t
 In addition to the exoplanet detection model, we developed a web interface that enhances user interaction with the model. The interface features:
 
 1. **Image Description Model**: A model that describes an input image of a planet, providing insights into its features.
+   https://colab.research.google.com/drive/1rKYQZ86lS1tHoI__BvGbrDvv4FncfXwd?usp=sharing
 2. **Climate Report Generator**: A model that generates a comprehensive report about the climate conditions on the detected planet, offering suggestions on how to adapt to those changes.
+   https://colab.research.google.com/drive/11EmY6L0T4A4PCIXb8GCvFh6gZwmHjRIV?usp=sharing
 3. **Chatbot Integration**: A chatbot that interacts with users, answering questions related to the project and providing information on exoplanets and climate conditions.
 
 ## Key Files and Usage
@@ -86,5 +89,6 @@ Upon running the notebook, you can visualize light curves and analyze the model'
 - I added a section for the web interface that describes the three new features you implemented.
 - Adjust any file names or specific implementation details according to your actual project structure.
 - Ensure that the installation command for dependencies includes any additional libraries used for the web interface.
+![image](https://github.com/user-attachments/assets/88a78998-d031-40c4-a743-daff80b96484)
 
 Feel free to modify the wording or structure as you see fit!
