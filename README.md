@@ -13,6 +13,7 @@ The dataset used in this project is sourced from the **NASA Kepler Space Telesco
 The input data includes:
 - **Light Intensity Readings**: Time-series data representing how the brightness of a star changes over time.
 - **Labels**: Binary values indicating the presence (`1`) or absence (`0`) of an exoplanet around the observed star.
+![image](https://github.com/user-attachments/assets/5c439ccc-67a0-4c38-acee-daf2c5313083)
 
 ## Project Phases
 
